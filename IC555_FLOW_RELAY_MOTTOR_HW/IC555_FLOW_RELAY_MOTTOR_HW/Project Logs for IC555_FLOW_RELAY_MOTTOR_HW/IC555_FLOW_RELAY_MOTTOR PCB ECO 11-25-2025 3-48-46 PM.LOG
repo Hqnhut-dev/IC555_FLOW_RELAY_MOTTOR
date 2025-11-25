@@ -1,0 +1,31 @@
+Added Component: Designator=D?(DO-214AC)
+Add component (AddParameter): Name = "Manufacturer"; Value = "JSMSEMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package & Pin"; Value = "SMA___2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "1N4007 M7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Link"; Value = "https://www.lcsc.com/product-detail/C20754788.html?s_z=n_M7"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DO-214AC)
+Add component (AddParameter): Name = "Manufacturer"; Value = "JSMSEMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package & Pin"; Value = "SMA___2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "1N4007 M7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Link"; Value = "https://www.lcsc.com/product-detail/C20754788.html?s_z=n_M7"; VariantName = "[No Variations]"
+Added Component: Designator=D(DO-214AC)
+Add component (AddParameter): Name = "Manufacturer"; Value = "JSMSEMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package & Pin"; Value = "SMA___2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "1N4007 M7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Link"; Value = "https://www.lcsc.com/product-detail/C20754788.html?s_z=n_M7"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT-23
+Added Pin To Net: NetName=NetD2_A Pin=D-A
+Added Pin To Net: NetName=VCC Pin=D-C
+Added Pin To Net: NetName=NetD3_A Pin=D?-A
+Added Pin To Net: NetName=R Pin=D?-A
+Added Pin To Net: NetName=VCC Pin=D?-C
+Added Pin To Net: NetName=VCC Pin=D?-C
+Add Pin To Net: Unknown Pin: Pin I1-1
+Add Pin To Net: Unknown Pin: Pin I1-2
+Add Pin To Net: Unknown Pin: Pin I1-3
+Change Net Name : Old Net Name=NetD2_A New Net Name=NetD_A
+Change Net Name : Old Net Name=NetD3_A New Net Name=NetD?_A
+Added Member To Class: ClassName=IC555_FLOW_RELAY_MOTTOR Member=Component D? 1N4007 M7
+Added Member To Class: ClassName=IC555_FLOW_RELAY_MOTTOR Member=Component D? 1N4007 M7
+Added Member To Class: ClassName=IC555_FLOW_RELAY_MOTTOR Member=Component D 1N4007 M7
+Add Class Member: Failed to add class member : Component I1 Mosfet SMD

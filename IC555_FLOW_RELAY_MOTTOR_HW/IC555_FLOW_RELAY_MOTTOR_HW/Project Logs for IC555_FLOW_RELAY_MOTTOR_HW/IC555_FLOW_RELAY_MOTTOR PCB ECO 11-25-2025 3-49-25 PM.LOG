@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=D NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Add Component: Footprint Not Found SOT-23
+Add Pin To Net: Unknown Pin: Pin I1-1
+Add Pin To Net: Unknown Pin: Pin I1-2
+Add Pin To Net: Unknown Pin: Pin I1-3
+Change Net Name : Old Net Name=NetD?_A New Net Name=NetD3_A
+Change Net Name : Old Net Name=NetD_A New Net Name=NetD2_A
+Added Member To Class: ClassName=IC555_FLOW_RELAY_MOTTOR Member=Component D1 1N4007 M7
+Add Class Member: Failed to add class member : Component I1 Mosfet SMD
