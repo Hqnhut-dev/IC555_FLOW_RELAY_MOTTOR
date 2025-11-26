@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=JP1-1
+Removed Pin From Net: NetName=VCC Pin=JP1-2
+Removed Member From Class: ClassName=IC555_FLOW_RELAY_MOTTOR Member=JP1
+Added Component: Designator=M1(RF433Mhz 1CH)
+Add component (AddParameter): Name = "Manufacturer"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package & Pin"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Link"; Value = "https://shopee.vn/product/971796452/22335540315?d_id=76a2c&uls_trackid=549fr85v01bg&utm_content=342dNobdyiYz4JGNN4699fwjtUFq"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=VCC Pin=M1-2
+Added Pin To Net: NetName=NetM1_4 Pin=M1-4
+Added Pin To Net: NetName=NetM1_4 Pin=U1-2
+Added Net: Name=NetM1_4
+Added Member To Class: ClassName=IC555_FLOW_RELAY_MOTTOR Member=Component D3 1N4148W-E
+Added Member To Class: ClassName=IC555_FLOW_RELAY_MOTTOR Member=Component D5 MB8S
+Added Member To Class: ClassName=IC555_FLOW_RELAY_MOTTOR Member=Component L5 Led
+Added Member To Class: ClassName=IC555_FLOW_RELAY_MOTTOR Member=Component M1 RF433Mhz
+Added Member To Class: ClassName=IC555_FLOW_RELAY_MOTTOR Member=Component R9 1.2K
+Added Member To Class: ClassName=IC555_FLOW_RELAY_MOTTOR Member=Component R10 SRD 12V
+Added Member To Class: ClassName=IC555_FLOW_RELAY_MOTTOR Member=Component R11 1k
+Added Member To Class: ClassName=IC555_FLOW_RELAY_MOTTOR Member=Component U1 PC817B

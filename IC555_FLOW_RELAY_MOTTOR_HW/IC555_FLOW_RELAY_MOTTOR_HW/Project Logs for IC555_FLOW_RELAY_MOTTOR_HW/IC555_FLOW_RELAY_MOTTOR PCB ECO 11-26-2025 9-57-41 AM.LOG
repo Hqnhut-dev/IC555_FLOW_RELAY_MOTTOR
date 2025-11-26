@@ -1,0 +1,6 @@
+Added Component: Designator=H1(HI-LINK 3W)
+Added Pin To Net: NetName=L Pin=H1-1
+Added Pin To Net: NetName=N Pin=H1-2
+Added Pin To Net: NetName=GND Pin=H1-3
+Added Pin To Net: NetName=VCC Pin=H1-4
+Added Member To Class: ClassName=IC555_FLOW_RELAY_MOTTOR Member=Component H1 Hi-Link

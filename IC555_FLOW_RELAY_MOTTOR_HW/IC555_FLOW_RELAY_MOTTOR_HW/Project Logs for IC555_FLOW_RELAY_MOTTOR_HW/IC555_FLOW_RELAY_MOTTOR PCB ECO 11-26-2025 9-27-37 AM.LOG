@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=U1 Old Footprint=SOP-4 New Footprint=4-SSOP
+Change Component Footprint: Designator=U2 Old Footprint=SOP-4 New Footprint=4-SSOP
+Change Component Comment : Designator=U1 Old Comment=PC817B New Comment=EL3H7(D)(TA)-G
+Change Component Comment : Designator=U2 Old Comment=PC817B New Comment=EL3H7(D)(TA)-G
+Change component parameters: Designator = "U1" ("U1"); Footprint = "SOP-4"; UniqueID = "\JCGXVPJM" ("\JCGXVPJM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "EVERLIGHT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package & Pin"; Value = "SOIC-4-175mil___4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "EL3H7(D)(TA)-G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Link"; Value = "https://www.lcsc.com/product-detail/C142287.html"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "SOP-4"; UniqueID = "\LOFSZORT" ("\LOFSZORT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "EVERLIGHT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package & Pin"; Value = "SOIC-4-175mil___4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "EL3H7(D)(TA)-G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Link"; Value = "https://www.lcsc.com/product-detail/C142287.html"; VariantName = "[No Variations]"

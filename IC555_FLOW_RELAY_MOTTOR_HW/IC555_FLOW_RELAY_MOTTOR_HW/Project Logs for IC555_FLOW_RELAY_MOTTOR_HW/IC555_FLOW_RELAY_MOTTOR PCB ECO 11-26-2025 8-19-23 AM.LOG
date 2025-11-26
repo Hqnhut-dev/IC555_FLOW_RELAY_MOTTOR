@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=SENSOR_LOW Pin=J1-6
+Removed Pin From Net: NetName=S1 Pin=J1-8
+Removed Pin From Net: NetName=VCC Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=NetQ3_1 Pin=U1-4
+Change Component Footprint: Designator=J1 Old Footprint=KF7.62 8P New Footprint=KF7.62 5P
+Change Component Comment : Designator=H1 Old Comment=Hi-Link New Comment=Hi-Link 12V 3W
+Change Component Comment : Designator=J1 Old Comment=KF7.62-8P New Comment=KF7.62-5P
+Change Component Comment : Designator=R9 Old Comment=Relay 5 PIN New Comment=SRD 12V
+Change Component Designator: OldDesignator=D3 NewDesignator=D4
+Change Component Designator: OldDesignator=D4 NewDesignator=D5
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change Component Designator: OldDesignator=L4 NewDesignator=L5
+Change Component Designator: OldDesignator=L5 NewDesignator=L4
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change component parameters: Designator = "J1" ("J1"); Footprint = "KF7.62 8P"; UniqueID = "\GFIBACAB" ("\GFIBACAB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package & Pin"; Value = "DIP___5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "KF7.62-5P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Link"; Value = "https://www.thegioiic.com/kf7-62-5-terminal-khoi-han-pcb-5-cuc-20a-300v-7-62mm"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SOD123)
+Add component (AddParameter): Name = "Manufacturer"; Value = "MDD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package & Pin"; Value = "SOD-123___2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "1N4148W-E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Link"; Value = "https://www.lcsc.com/product-detail/C41371420.html?s_z=n_1N4148"; VariantName = "[No Variations]"
+Added Component: Designator=J2(KF7.62 4P)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package & Pin"; Value = "DIP___4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "KF7.62-4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Link"; Value = "https://www.lcsc.com/product-detail/C707826.html?s_z=n_Cixi%2520Kefa%2520Elec%2520KF7.62-4P"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(JP 1x4 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Component: Designator=R9(Resistor 0805)
+Added Component: Designator=U1(SOP-4)
+Add component (AddParameter): Name = "Manufacturer"; Value = "GOODWORK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package & Pin"; Value = "SMD-4P___4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PC817B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Link"; Value = "https://www.lcsc.com/product-detail/C3025163.html?s_z=n_PC817"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=S1 Pin=D3-C
+Added Pin To Net: NetName=SENSOR_LOW Pin=J2-1
+Added Pin To Net: NetName=VCC Pin=J2-2
+Added Pin To Net: NetName=S1 Pin=J2-3
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=VCC Pin=JP1-2
+Added Pin To Net: NetName=VCC Pin=R9-1
+Added Pin To Net: NetName=SENSOR_LOW Pin=R13-1
+Added Pin To Net: NetName=VCC Pin=U1-4
+Added Pin To Net: NetName=VCC Pin=U2-4
+Change Net Name : Old Net Name=NetD3_A New Net Name=NetD4_A
+Change Net Name : Old Net Name=NetD4_4 New Net Name=NetD5_4
+Change Net Name : Old Net Name=NetL4_1 New Net Name=NetL5_1
+Change Net Name : Old Net Name=NetL5_2 New Net Name=NetL4_2
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=U1-3
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetJP1_4 Pin=JP1-4
+Added Pin To Net: NetName=NetJP1_4 Pin=U1-2
+Added Net: Name=NetJP1_4
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U1-1
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=S2 Pin=J2-4
+Added Pin To Net: NetName=S2 Pin=R12-1
+Added Pin To Net: NetName=S2 Pin=U2-3
+Added Net: Name=S2
+Added Member To Class: ClassName=IC555_FLOW_RELAY_MOTTOR Member=Component D6 BZX55C5V1
+Added Member To Class: ClassName=IC555_FLOW_RELAY_MOTTOR Member=Component J2 KF7.62-4P
+Added Member To Class: ClassName=IC555_FLOW_RELAY_MOTTOR Member=Component JP1 JP 1x4 2.54
+Added Member To Class: ClassName=IC555_FLOW_RELAY_MOTTOR Member=Component R13 150k_2W
+Added Member To Class: ClassName=IC555_FLOW_RELAY_MOTTOR Member=Component U2 PC817B
+Added Rule: Name=Schematic Supply Nets_12

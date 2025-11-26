@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C2 Old Footprint=CAP 6.3X12MM New Footprint=CAPITOR D6.3 x L7.7mm (D)
+Change Component Comment : Designator=C2 Old Comment=100uF/25V New Comment=100uF_25V_ALUM
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAP 6.3X12MM"; UniqueID = "\LNZAGSGZ" ("\LNZAGSGZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KNSCHA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package & Pin"; Value = "SMD,D6.3xL7.7mm___2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RVT100UF25V67RV0011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Link"; Value = "https://www.lcsc.com/product-detail/C2836443.html?s_z=n_RVT100Uf"; VariantName = "[No Variations]"
