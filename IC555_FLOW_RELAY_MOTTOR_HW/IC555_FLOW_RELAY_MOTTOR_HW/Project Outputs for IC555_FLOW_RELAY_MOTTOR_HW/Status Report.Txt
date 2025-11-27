@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [IC555_FLOW_RELAY_MOTTOR_HW.PrjPcb]
+   Generated File[IC555_FLOW_RELAY_MOTTOR.TXT]
+   Generated File[IC555_FLOW_RELAY_MOTTOR.LDP]
+   Generated File[IC555_FLOW_RELAY_MOTTOR.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:33:49 AM On 11/27/2025

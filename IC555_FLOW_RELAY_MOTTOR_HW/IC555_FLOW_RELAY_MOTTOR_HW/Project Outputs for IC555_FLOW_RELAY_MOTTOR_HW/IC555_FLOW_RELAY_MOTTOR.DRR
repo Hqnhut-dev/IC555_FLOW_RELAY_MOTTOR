@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: IC555_FLOW_RELAY_MOTTOR.PcbDoc   11/27/2025  9:33:49 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : IC555_FLOW_RELAY_MOTTOR.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             28        PTH        6.65inch (168.99mm)
+T2      20mil (0.5mm)                                             Round             16        PTH        3.87inch (98.32mm)
+T3      32mil (0.8mm)                                             Round             5         PTH        4.07inch (103.47mm)
+T4      43mil (1.1mm)                                             Round             10        PTH        8.19inch (207.92mm)
+T5      45mil (1.143mm)                                           Round             10        PTH        2.83inch (71.99mm)
+T6      47mil (1.199mm)                                           Round             2         PTH        0.40inch (10.20mm)
+T7      71mil (1.801mm)                                           Round             9         PTH        2.70inch (68.71mm)
+T8      83mil (2.101mm)                                           Round             4         PTH        1.70inch (43.19mm)
+T9      122mil (3.099mm)                                          Round             2         PTH        3.05inch (77.46mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              86
+
+Total Processing Time (hh:mm:ss) : 00:00:00
